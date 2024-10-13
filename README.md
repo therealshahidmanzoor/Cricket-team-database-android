@@ -74,7 +74,7 @@ Provide instructions on how to set up and use your application.
 
 ## Contributors
 
-- [Shahid Manjoor](https://github.com/therealshahidmanzoor)
+- [Shahid Manzoor](https://github.com/therealshahidmanzoor)
 - [Simran Tamboli](https://github.com/Simran)
 - [Palak Chandak](https://github.com/)
 
